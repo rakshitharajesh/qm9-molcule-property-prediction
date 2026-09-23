@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+data/*.csv
+!data/sample_qm9_5rows.csv
+data/qm9_raw/
+results/*.pt
+results/*.csv
+checkpoints/*.pt
+.ipynb_checkpoints/
+.claude/
+results/*.npz
+xyz_to_csv.py
